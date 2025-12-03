@@ -7,7 +7,7 @@ transformers==4.49.0
 pandas
 langgraph
 langchain_community
-faker==37.12.0
+faker==38.2.0
 faiss-cpu==1.13.0
 crewai==0.102.0
 PyPDF2==3.0.1
