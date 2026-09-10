@@ -9,7 +9,7 @@ langgraph
 langchain_community
 faker==37.12.0
 faiss-cpu==1.13.0
-crewai==0.102.0
+crewai==1.15.21
 PyPDF2==3.0.1
 duckduckgo-search==7.5.0
 wikipedia
